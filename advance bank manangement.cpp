@@ -1,4 +1,5 @@
-/*   Account management software    */
+/*   Simple Account management software    */
+/* this will shows the basic idea behind the bank management system using cpp */
 
 //#include<graphics.h>
 #include<iostream>
